@@ -1,1 +1,1 @@
-Launcher for Voxel Engine
+Launcher for VoxelEngine
